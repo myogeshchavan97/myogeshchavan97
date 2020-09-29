@@ -7,7 +7,7 @@ I'm a Full Stack Developer.
 - ⚡ Loves sharing knowledge through technical articles
 - 👯 Connect with me for any freelancing project
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/yogesh-chavan97/) or email me at [myogeshchavan97@gmail.com](myogeshchavan97@gmail.com)
-- 🔥 **Don't forget to subscribe [here](https://subscribe-user.herokuapp.com/) to get weekly newsletter about my latest published articles**
+- 🔥 **Don't forget to subscribe [here](https://yogeshchavan.dev/) to get weekly newsletter about my latest published articles**
 
 
 ### Blogging platforms where I usually write
@@ -17,6 +17,8 @@ I'm a Full Stack Developer.
 
 ### Following are some of my popular articles
 
+- [Create a Bookmark Manager App using FaunaDB and Netlify](https://dev.to/myogeshchavan97/create-a-bookmark-manager-app-using-faunadb-and-netlify-serverless-functions-4cp0)
+- [How to Create a Spotify Music Search App in React](https://dev.to/myogeshchavan97/how-to-create-a-spotify-music-search-app-in-react-328m)
 - [Build an amazing Job Search App using React](https://dev.to/myogeshchavan97/build-an-amazing-job-search-app-using-react-42p)
 - [Improve your productivity when working with React by making these changes in Visual Studio Code](https://dev.to/myogeshchavan97/improve-your-productivity-when-working-with-react-by-making-these-changes-in-visual-studio-code-251n)
 - [Create a Photo Gallery App Using the MERN Stack](https://levelup.gitconnected.com/create-a-photo-gallery-app-using-mern-stack-826d7d926232?source=friends_link&sk=e2787469e9868246b78e51b55a4351d6)

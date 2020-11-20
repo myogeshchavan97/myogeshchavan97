@@ -31,9 +31,6 @@ I'm a Full Stack Developer.
 - [Render dynamic content in Node.js using templates](https://levelup.gitconnected.com/render-dynamic-content-in-nodejs-using-templates-a58cae681148?source=friends_link&sk=e4b7e0d64bb56da81c4295014b35b5ac)
 - [React Testing using Jest along with code coverage report](https://medium.com/swlh/react-testing-using-jest-along-with-code-coverage-report-7454b5ba0236?source=friends_link&sk=daa299816dca75fb991e84432a82f31e)
 - [Extremely useful lodash methods](https://levelup.gitconnected.com/extremely-useful-lodash-methods-b38f121fea7e?source=friends_link&sk=558db260b096e7592e02bd328982c0a4)
-- [Everything You Need To Know About JavaScript Arrow Functions](https://medium.com/javascript-in-plain-english/everything-you-need-to-know-about-es6-arrow-functions-92171b1188b9?source=friends_link&sk=9ad181f1b461ffb620e8a129afaac122)
-- [Complete Guide For ES6 Import And Export Syntax Changes](https://medium.com/javascript-in-plain-english/complete-guide-for-es6-import-and-export-syntax-changes-95f930882fa?source=friends_link&sk=1f41d3bd10417f3060a623f5874f1817)
-- [What is so special about ES6 Destructuring](https://medium.com/javascript-in-plain-english/what-is-so-special-about-es6-destructuring-6be45fbec52c?source=friends_link&sk=6b8ace6e0db36ec4f5b525ef19c62a41)
 - [Simplify your React code using shorter ES6 setState syntax](https://medium.com/javascript-in-plain-english/simplify-your-react-code-using-shorter-es6-setstate-syntax-8643432244bb?source=friends_link&sk=7a51e3f65271fc7d5f805a5d251be6cb)
 
 Check out my [medium](https://medium.com/@yogeshchavan) / [dev.to](https://dev.to/myogeshchavan97) profile to read more such articles.

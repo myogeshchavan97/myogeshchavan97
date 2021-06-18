@@ -9,6 +9,13 @@ I'm a Full Stack Developer.
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/yogesh-chavan97/) or email me at [myogeshchavan97@gmail.com](myogeshchavan97@gmail.com)
 - 🔥 **Don't forget to subscribe [here](https://yogeshchavan.dev/) to get weekly newsletter about my latest published articles**
 
+You can check out my following two popular courses:
+
+- Mastering Redux Course - https://master-redux.yogeshchavan.dev/
+- React Router Introduction Course - https://yogeshchavan.podia.com/react-router-introduction
+
+I have also written a hugely popular Mastering Modern JavaScript book (https://modernjavascript.yogeshchavan.dev/)
+
 ### Following are some of my popular articles
 
 - [Create a Bookmark Manager App using FaunaDB and Netlify](https://dev.to/myogeshchavan97/create-a-bookmark-manager-app-using-faunadb-and-netlify-serverless-functions-4cp0)

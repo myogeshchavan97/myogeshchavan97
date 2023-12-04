@@ -9,10 +9,13 @@ I'm a Full Stack Developer.
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/yogesh-chavan97/) or email me at [myogeshchavan97@gmail.com](myogeshchavan97@gmail.com)
 - 🔥 **Don't forget to subscribe [here](https://yogeshchavan.dev/) to get weekly newsletter about my latest published articles**
 
-You can check out my following two popular courses:
+You can check out some of my popular courses & ebooks:
 
-- Mastering Redux Course - https://master-redux.yogeshchavan.dev/
-- React Router Introduction Course - https://yogeshchavan.podia.com/react-router-introduction
+- [Build Expense Manager App Using React And TypeScript](https://courses.yogeshchavan.dev/build-expense-manager-app-using-react-and-typescript)
+- [Mastering Modern JavaScript Ebook](https://modernjavascript.yogeshchavan.dev/)
+- [Mastering Redux Course](https://master-redux.yogeshchavan.dev/)
+- [React Router Introduction Course](https://yogeshchavan.podia.com/react-router-introduction)
+- [React Router 6 Course](https://courses.yogeshchavan.dev/react-router-6)
 
 I have also written a hugely popular Mastering Modern JavaScript book (https://modernjavascript.yogeshchavan.dev/)
 

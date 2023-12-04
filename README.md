@@ -17,8 +17,6 @@ You can check out some of my popular courses & ebooks:
 - [React Router Introduction Course](https://yogeshchavan.podia.com/react-router-introduction)
 - [React Router 6 Course](https://courses.yogeshchavan.dev/react-router-6)
 
-I have also written a hugely popular Mastering Modern JavaScript book (https://modernjavascript.yogeshchavan.dev/)
-
 ### Following are some of my popular articles
 
 - [Create a Bookmark Manager App using FaunaDB and Netlify](https://dev.to/myogeshchavan97/create-a-bookmark-manager-app-using-faunadb-and-netlify-serverless-functions-4cp0)

@@ -34,7 +34,7 @@ You can check out some of my popular courses & ebooks:
 - [Extremely useful lodash methods](https://levelup.gitconnected.com/extremely-useful-lodash-methods-b38f121fea7e?source=friends_link&sk=558db260b096e7592e02bd328982c0a4)
 - [Simplify your React code using shorter ES6 setState syntax](https://medium.com/javascript-in-plain-english/simplify-your-react-code-using-shorter-es6-setstate-syntax-8643432244bb?source=friends_link&sk=7a51e3f65271fc7d5f805a5d251be6cb)
 
-**Check out my [freeCodeCamp](https://www.freecodecamp.org/news/author/yogesh/) / [medium](https://medium.com/@yogeshchavan) / [dev.to](https://dev.to/myogeshchavan97) / [hashnode](https://blog.yogeshchavan.dev/) profile to read more such articles.**
+**Check out my [freeCodeCamp](https://www.freecodecamp.org/news/author/yogeshchavan97/) / [medium](https://medium.com/@yogeshchavan) / [dev.to](https://dev.to/myogeshchavan97) / [hashnode](https://blog.yogeshchavan.dev/) profile to read more such articles.**
 
 I hope you've been enjoying my articles and tutorials I've been writing. If you found them useful, consider buying me a coffee! I would really appreciate it.
 

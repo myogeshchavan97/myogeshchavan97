@@ -1,39 +1,76 @@
 ## Hi there, I'm Yogesh! 👋
 
-I'm a Full Stack Developer.
+I'm a Full Stack Developer with 12+ years of experience building websites and web applications. I work as a freelancer, corporate trainer, and mentor helping developers advance their skills.
 
-- 🔭 Mostly working on JavaScript, React and Node.js
-- 🌱 I'm currently in love with React
-- ⚡ Loves sharing knowledge through technical articles
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/yogesh-chavan97/) or email me at [myogeshchavan97@gmail.com](myogeshchavan97@gmail.com)
+📍 Pune, India &nbsp;|&nbsp; 📫 [yogesh@yogeshchavan.dev](mailto:yogesh@yogeshchavan.dev) &nbsp;|&nbsp; 🔗 [yogeshchavan.dev](https://www.yogeshchavan.dev/)
 
-You can check out some of my popular courses & ebooks:
+---
 
+### 🛠 Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux, Zustand, HTML5, CSS3
+
+**Backend:** Node.js, MongoDB, PostgreSQL, MySQL, GraphQL, REST APIs, Firebase, Supabase, Prisma ORM
+
+---
+
+### 🚀 Recent Projects
+
+| Project                                                                     | Description                                                                     |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [BookFlow](https://bookflow.yogeshchavan.dev/)                              | Multi-vendor appointment booking platform for salons, clinics, and spas         |
+| [Digital Products Marketplace](https://www.youtube.com/watch?v=ixIfUqgEEvE) | Full-stack marketplace where creators sell and buyers purchase digital goods    |
+| [LuxeRealty](https://www.youtube.com/watch?v=AfC1tc5Sq9w)                   | Luxury real estate platform with property search, filtering, and dark-themed UI |
+| [PDFMaker](https://www.pdfmaker.cc/)                                        | High-performance Markdown-to-PDF converter with real-time preview               |
+| [Code to Image Generator](https://www.code-to-image-generator.com/)         | Convert code snippets into beautiful images with custom themes and fonts        |
+| AI Headshot Generator                                                       | Generate professional headshots using AI, built with Next.js                    |
+| Indian Stock Market Price Tracker                                           | Real-time stock tracking with alerts, charts, and notifications                 |
+| Hotel Booking Application                                                   | Full-stack hotel booking platform with payment gateway and admin dashboard      |
+
+---
+
+### 🎓 Courses & Ebooks
+
+- [Mastering Next.js](https://courses.yogeshchavan.dev/mastering-next-js-15-from-basics-to-advanced)
+- [Getting Started With Zustand](https://courses.yogeshchavan.dev/getting-started-with-zustand)
 - [Build Library Management System Using React, Shadcn/ui, Supabase, and React Query](https://courses.yogeshchavan.dev/build-library-management-system-using-react-shadcn-ui-supabase-and-react-query)
-- [Link Sharing App](https://courses.yogeshchavan.dev/mern-stack-masterclass)
+- [MERN Stack Masterclass](https://courses.yogeshchavan.dev/mern-stack-masterclass)
 - [Build Expense Manager App Using React And TypeScript](https://courses.yogeshchavan.dev/build-expense-manager-app-using-react-and-typescript)
 - [Mastering Modern JavaScript Ebook](https://modernjavascript.yogeshchavan.dev/)
 - [Mastering Redux Course](https://master-redux.yogeshchavan.dev/)
-- [React Router Introduction Course](https://courses.yogeshchavan.dev/react-router-introduction)
-- [React Router 6 Course](https://courses.yogeshchavan.dev/react-router-6)
 
-### Following are some of my popular articles
+---
+
+### ✍️ Popular Articles
 
 - [How to Create a Spotify Music Search App in React](https://dev.to/myogeshchavan97/how-to-create-a-spotify-music-search-app-in-react-328m)
 - [Create a Bookmark Manager App using FaunaDB and Netlify](https://dev.to/myogeshchavan97/create-a-bookmark-manager-app-using-faunadb-and-netlify-serverless-functions-4cp0)
 - [Build an amazing Job Search App using React](https://dev.to/myogeshchavan97/build-an-amazing-job-search-app-using-react-42p)
 - [Create a Photo Gallery App Using the MERN Stack](https://levelup.gitconnected.com/create-a-photo-gallery-app-using-mern-stack-826d7d926232?source=friends_link&sk=e2787469e9868246b78e51b55a4351d6)
-- [Create an enquiry form in React and send email using Nodejs](https://medium.com/swlh/create-an-enquiry-form-in-react-and-send-email-using-nodejs-1c0cd590dce1?source=friends_link&sk=1aca7d0fcf16682c0046f9f2e4fc8a0f)
 - [Create a Full Stack Banking Application using React](https://medium.com/javascript-in-plain-english/create-a-fullstack-banking-application-using-react-e8c96d74cd39?source=friends_link&sk=5038dbe0d06acec7fdeed694690cb91a)
 - [Tricky Javascript code snippets asked in the interview](https://levelup.gitconnected.com/tricky-javascript-code-snippets-asked-in-the-interview-8ed9b868a4a5?source=friends_link&sk=b5fdb2ebd4b283eb6a57e39c6b83fc0c)
-- [What is Context API in React and How to use it in React App](https://medium.com/swlh/what-is-context-api-in-react-and-how-to-use-it-in-react-app-dedbcdd78801?source=friends_link&sk=5ea2b1078e16173036b95c477cde369c)
-- [How to Render a React App Using an Express Server in Node.js](https://levelup.gitconnected.com/how-to-render-react-app-using-express-server-in-node-js-a428ec4dfe2b?source=friends_link&sk=3f152ac7908f540b209f07f683b494cd)
-- [Render dynamic content in Node.js using templates](https://levelup.gitconnected.com/render-dynamic-content-in-nodejs-using-templates-a58cae681148?source=friends_link&sk=e4b7e0d64bb56da81c4295014b35b5ac)
-- [Extremely useful lodash methods](https://levelup.gitconnected.com/extremely-useful-lodash-methods-b38f121fea7e?source=friends_link&sk=558db260b096e7592e02bd328982c0a4)
-- [Simplify your React code using shorter ES6 setState syntax](https://medium.com/javascript-in-plain-english/simplify-your-react-code-using-shorter-es6-setstate-syntax-8643432244bb?source=friends_link&sk=7a51e3f65271fc7d5f805a5d251be6cb)
 
-**Check out my [freeCodeCamp](https://www.freecodecamp.org/news/author/yogeshchavan97/) profile to read more such articles.**
+**Check out my [freeCodeCamp](https://www.freecodecamp.org/news/author/yogeshchavan97/) profile for 100+ articles.**
 
-I hope you've been enjoying my articles and tutorials I've been writing. If you found them useful, consider buying me a coffee! I would really appreciate it.
+---
+
+### 📊 By the Numbers
+
+- 12+ years of experience
+- 100+ technical articles published
+- 3000+ students trained
+
+---
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yogesh--chavan97-blue?logo=linkedin)](https://www.linkedin.com/in/yogesh-chavan97/)
+[![Twitter](https://img.shields.io/badge/Twitter-@myogeshchavan97-1DA1F2?logo=twitter)](https://twitter.com/myogeshchavan97)
+[![GitHub](https://img.shields.io/badge/GitHub-myogeshchavan97-black?logo=github)](https://github.com/myogeshchavan97)
+[![CodeMentor](https://img.shields.io/badge/CodeMentor-myogeshchavan97-green)](https://www.codementor.io/@myogeshchavan97)
+
+---
+
+If you found my articles and tutorials useful, consider buying me a coffee!
 
 [<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" >](https://www.buymeacoffee.com/myogeshchavan97)

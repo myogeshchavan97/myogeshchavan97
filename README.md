@@ -10,7 +10,7 @@ I'm a Full Stack Developer with 12+ years of experience building websites and we
 
 **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux, Zustand, HTML5, CSS3
 
-**Backend:** Node.js, MongoDB, PostgreSQL, MySQL, GraphQL, REST APIs, Firebase, Supabase, Prisma ORM
+**Backend:** Node.js, MongoDB, PostgreSQL, MySQL, GraphQL, REST APIs, Firebase, Supabase, Prisma ORM, Drizzle ORM
 
 ---
 

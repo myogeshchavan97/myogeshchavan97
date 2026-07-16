@@ -1,6 +1,6 @@
 ## Hi there, I'm Yogesh! 👋
 
-I'm a Full Stack Developer with 12+ years of experience building websites and web applications. I work as a freelancer, corporate trainer, and mentor helping developers advance their skills.
+I'm a Full Stack Developer with 9+ years of experience building websites and web applications. I work as a freelancer, corporate trainer, and mentor helping developers advance their skills.
 
 📍 Pune, India &nbsp;|&nbsp; 📫 [yogesh@yogeshchavan.dev](mailto:yogesh@yogeshchavan.dev) &nbsp;|&nbsp; 🔗 [yogeshchavan.dev](https://www.yogeshchavan.dev/)
 

@@ -56,7 +56,7 @@ I'm a Full Stack Developer with 9+ years of experience building websites and web
 
 ### 📊 By the Numbers
 
-- 12+ years of experience
+- 9+ years of experience
 - 100+ technical articles published
 - 3000+ students trained
 
